@@ -168,6 +168,11 @@ hash = "140515ab8fb320b7b333931a0b256e091e02f45f295108633d6c77478b3d8ff9"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "f979bba5c6435c2b46cabb0761d95311c3fe3676b9046c6f476e273b8e9be91a"
 metafile = true
