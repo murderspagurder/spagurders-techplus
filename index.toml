@@ -188,6 +188,11 @@ hash = "e09db556a9245246cafae5394cc8cebb2a4ef36733811519a39b6c0e015dceb7"
 metafile = true
 
 [[files]]
+file = "mods/create-mod-trims.pw.toml"
+hash = "598af112d247563245d5638a384c711eb8d6f19d2281da119aca3a82a313a609"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "880a30dbb8a40fcbe8fc808379bdf0d864a20b52150266001ed53bdabc44d040"
 metafile = true
