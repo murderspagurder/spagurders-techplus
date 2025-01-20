@@ -1,0 +1,13 @@
+name = "spagurders-techplus"
+author = "murder_spagurder"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e814ecda608711c750a0dd984d23ee56588ddab2ee38e91c725a2ecc616d9ed"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

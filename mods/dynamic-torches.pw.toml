@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamic-torches-5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AK1n0IqM/versions/lVd7JLjI/dynamic-torches-5.2.jar"
+hash-format = "sha512"
+hash = "d18319e7f9d43c7246dc17dfcb00cf758f76bb1fae84619b11ace4dcc2bef46535f4bc06afbc3d944cabf7d04b4d616b439572e953064422722170884c65e4e8"
+
+[update]
+[update.modrinth]
+mod-id = "AK1n0IqM"
+version = "lVd7JLjI"

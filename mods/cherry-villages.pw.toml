@@ -1,0 +1,13 @@
+name = "Cherry Grove Villages"
+filename = "cherry-villages-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xtpwas3W/versions/iFwpYjlw/cherry-villages-1.0.3.jar"
+hash-format = "sha512"
+hash = "19d0a424e0bb922fe38c415875f7dfb920b1d522547a2a2be0621570a6420522f00bdbabe9d7cf30681684865c1bf9891b34998eba6e57825fbb2c8d891eef09"
+
+[update]
+[update.modrinth]
+mod-id = "Xtpwas3W"
+version = "iFwpYjlw"
