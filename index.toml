@@ -13,6 +13,10 @@ file = "config/doubledoors.json5"
 hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
+file = "config/easyanvils-server.toml"
+hash = "5b83b1dd63a7ceb582d8d1ab6a2383879c57c9d59f0afd39e4dd9df9a3c152c4"
+
+[[files]]
 file = "config/veinmining-client.toml"
 hash = "d145a0708f72549f2870072fcc134693ed91087688a541f8d057a5d98c8f1290"
 
@@ -536,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "4953b6b36b0f173b4a8f77df87ea68d22aed34f9c4b816b8d4efa190241c8c40"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
 metafile = true
 
 [[files]]
