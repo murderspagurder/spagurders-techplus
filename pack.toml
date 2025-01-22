@@ -1,12 +1,12 @@
 name = "spagurders-techplus"
 author = "murder_spagurder"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eb79bdc4ae53306ab9478dc3ffead2a2c46056d689acc23e92e9900928dbb28f"
+hash = "be60102da832188bba6470f3a83469dc48e2b6d9a1030fd1357058ff1c4f10ff"
 
 [versions]
 minecraft = "1.20.1"
